@@ -1,2 +1,2 @@
 # Codex
-In here I will be experimenting with MML codex
+In here I will be experimenting with LLM model codex
